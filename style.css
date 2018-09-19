@@ -1,0 +1,30 @@
+body, html {
+  width: 100%;
+  height: 100%; 
+font-family: sans-serif;
+    
+}
+
+header.startup {
+    background-image:url("https://d3hvwccx09j84u.cloudfront.net/0,0/image/pineapple-poblano-beef-tacos-b7badad1.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+  
+}
+
+.header-text {
+    font-size:60px;
+    text-shadow: 2px 2px #ff0000;
+    color: whitesmoke;
+}
+
+
+.btn {
+    background-color:black;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color:grey;
+}
